@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">TicTacToe</string>
+    <string name="player_X">Player X: %1$s</string>
+    <string name="player_O">Player O: %1$s</string>
+    <string name="button_reset">RESET</string>
+    <string name="winner">winner: %1$s</string>
+    <string name="currPlayer">current player: %1$s</string>
+</resources>
